@@ -10,7 +10,7 @@ Notas de estudio personales para el path **HTB Certified Web Exploitation Specia
 | 02 | Introduction to Web Applications | General | Fundamental | Tier 0 | ✅ |
 | 03 | Using Web Proxies | Offensive | Easy | Tier II | ✅ |
 | 04 | Information Gathering - Web Edition | Offensive | Easy | Tier II | ✅ |
-| 05 | Web Fuzzing | Offensive | Easy | Tier 0 | 🟡 |
+| 05 | [Web Fuzzing](05-web-fuzzing/README.md) | Offensive | Easy | Tier 0 | ✅ |
 | 06 | JavaScript Deobfuscation | Defensive | Easy | Tier 0 | 🟡 |
 | 07 | Cross-Site Scripting (XSS) | Offensive | Easy | Tier II | ✅ |
 | 08 | SQL Injection Fundamentals | Offensive | Medium | Tier 0 | ✅ |
