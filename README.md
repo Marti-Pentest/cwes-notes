@@ -17,7 +17,7 @@ Notas de estudio personales para el path **HTB Certified Web Exploitation Specia
 | 09 | SQLMap Essentials | Offensive | Easy | Tier II | ✅ |
 | 10 | Command Injections | Offensive | Medium | Tier II | ✅ |
 | 11 | File Upload Attacks | Offensive | Medium | Tier II | ✅ |
-| 12 | Server-side Attacks | Offensive | Medium | Tier II | 🟡 |
+| 12 | [Server-side Attacks](07-server-side-attacks/) | Offensive | Medium | Tier II | ✅ |
 | 13 | Login Brute Forcing | Offensive | Easy | Tier II | ✅ |
 | 14 | Broken Authentication | Offensive | Medium | Tier II | 🟡 |
 | 15 | Web Attacks | Offensive | Medium | Tier II | ✅ |
