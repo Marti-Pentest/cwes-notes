@@ -19,7 +19,7 @@ Notas de estudio personales para el path **HTB Certified Web Exploitation Specia
 | 11 | File Upload Attacks | Offensive | Medium | Tier II | ✅ |
 | 12 | [Server-side Attacks](07-server-side-attacks/) | Offensive | Medium | Tier II | ✅ |
 | 13 | Login Brute Forcing | Offensive | Easy | Tier II | ✅ |
-| 14 | Broken Authentication | Offensive | Medium | Tier II | 🟡 |
+| 14 | [Broken Authentication](08-broken-authentication/) | Offensive | Medium | Tier II | ✅ |
 | 15 | Web Attacks | Offensive | Medium | Tier II | ✅ |
 | 16 | File Inclusion | Offensive | Medium | Tier 0 | ✅ |
 | 17 | Attacking GraphQL | Offensive | Medium | Tier II | 🟡 |
